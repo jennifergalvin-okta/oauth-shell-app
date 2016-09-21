@@ -1,0 +1,22 @@
+{
+  "name": "oauth-shell-app",
+  "version": "1.0.0",
+  "description": "Oauth Shell App to authenticate to a single Okta IDP and one application protected behind it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jennifergalvin-okta/oauth-shell-app.git"
+  },
+  "keywords": [
+    "okta",
+    "oauth"
+  ],
+  "author": "Jennifer Galvin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jennifergalvin-okta/oauth-shell-app/issues"
+  }
+}
